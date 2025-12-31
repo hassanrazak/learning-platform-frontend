@@ -52,3 +52,9 @@ export default tseslint.config({
   },
 });
 ```
+
+
+# CI Pipeline 
+ - create pull request from feature branch  
+ - merge into master 
+ - CI workflow should run
